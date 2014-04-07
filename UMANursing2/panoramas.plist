@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>r2Still.tif</string>
+		<key>name</key>
+		<string>Laboratory</string>
+		<key>cubefile</key>
+		<string>r2</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>r1Still.tif</string>
+		<key>name</key>
+		<string>SImulator</string>
+		<key>cubefile</key>
+		<string>r1</string>
+	</dict>
+</array>
+</plist>
